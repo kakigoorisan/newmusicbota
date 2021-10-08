@@ -15,7 +15,7 @@ from google.auth.transport.requests import _Response, Request
 
 from collections import defaultdict, deque
 
-DEVELOPER_KEY = ""
+DEVELOPER_KEY = ""#googleのAPI
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 TOKEN = "" #TOKENを入力
