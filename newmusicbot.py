@@ -15,10 +15,10 @@ from google.auth.transport.requests import _Response, Request
 
 from collections import defaultdict, deque
 
-DEVELOPER_KEY = "AIzaSyCJPpfRppOf1G16xfUbnt8Uug-SxeORpyM"
+DEVELOPER_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
-TOKEN = "ODkwNDU4ODIxNDI2ODM5NjIz.YUwGZg.osgvfiOet_F3b4qYQIKZ8r2eQPM" #TOKENを入力
+TOKEN = "" #TOKENを入力
 
 client = discord.Client()
 count_music = 1
